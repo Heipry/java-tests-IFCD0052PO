@@ -13,6 +13,8 @@ Puedes realizar los simulacros de examen directamente en el navegador a través 
 *   [📌 S39: Simulacro de Examen B](https://heipry.github.io/java-tests-IFCD0052PO/S39-Test_SimulacroB.html)
 *   [📌 Simulacro de Examen Final](https://heipry.github.io/java-tests-IFCD0052PO/Simulacro-examen-final.html)
 
+*   [🚀 **Java Exam Automator**](https://github.com/heipry/corrector-examenes)  Es necesario para obtener notas y estadísticas instantáneas.
+
 ## 🛠️ Características del Sistema
 
 Estos archivos HTML integran una lógica avanzada de gestión docente:
